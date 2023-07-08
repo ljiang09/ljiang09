@@ -1,7 +1,8 @@
 # Hi, I'm Lily Jiang.
 
-I'm a sophomore at Olin College in Needham, MA. I'm pursuing a degree in Engineering with Computing,
-where I focus a lot on software development.
+I'm a junior at Olin College in Needham, MA, studying in Engineering with Computing.
+
+I have a lot of experience as a front end software engineer for web and iOS apps.
 
 ## Languages:
 ReactJS, Swift/SwiftUI, Python, Java, Golang, MATLAB, HTML/CSS, C#, C++ (Arduino)
